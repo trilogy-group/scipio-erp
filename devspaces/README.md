@@ -78,8 +78,8 @@ Access application URLs:
 Using information retrieved in step 4, access the following URL's:
 
 * Application (bound to port 80): 
-    * http://scipio-erp.<devspaces-user>.devspaces.io:<published-ports>/shop
-    * http://scipio-erp.<devspaces-user>.devspaces.io:<published-ports>/
+    * http://scipio-erp.\<devspaces-user\>.devspaces.io:\<published-ports\>/shop
+    * http://scipio-erp.\<devspaces-user\>.devspaces.io:\<published-ports\>/
     
 
 8 - Stop Scipio
